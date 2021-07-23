@@ -1,0 +1,22 @@
+.bi {color:whitesmoke}
+.dos {color:whitesmoke;font-size: 20px;}
+.uno {text-decoration: underline;color: azure;}
+.trois {font-size: 20px;color: blue;}
+.oln {align-content: center}
+.penta {color:azure;width: 50%;border:1px solid azure;text-align: center;border-collapse: collapse;padding: 5px;}
+.hex {font-size: larger;}
+td {border:1px solid azure;padding: 5px;}
+tr {border:1px solid azure;padding: 5px;}
+body {
+    margin-top: 0;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: black;
+}
+.title {
+    text-align: center;
+    font-size: 100px;
+    color:azure;
+    text-emphasis:bold;
+}
